@@ -1,4 +1,4 @@
-# dice_roll_1
+# dice_roll
 
 A new Flutter project.
 
